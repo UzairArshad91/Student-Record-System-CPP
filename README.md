@@ -1,4 +1,4 @@
-# Student Record System — C++
+# Student Record System C++
 
 A console-based student record management system built in C++ that stores and manages student data across **8 synchronized data structures** simultaneously. Every insert and delete operation reflects across all structures in real time.
 
