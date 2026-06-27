@@ -8,14 +8,14 @@ Built as a semester project for **CSC-232 Data Structures** at COMSATS Universit
 
 ## Features
 
-- **Real-time sync** — insert or delete a student and all 8 structures update instantly
-- **Undo system** — undo last insert or last delete using two independent stacks
-- **At-risk detection** — identifies students with attendance below 70% using a Min Heap
-- **Fast lookup** — O(1) average student search via Hash Table
-- **Balanced search** — AVL Tree provides O(log n) search and sorted traversal by score
-- **Graph analysis** — score-based similarity graph with Dijkstra, Prim's, and Kruskal's
-- **4 sorting algorithms** — Bubble, Selection, Insertion, and Merge Sort with comparison and swap counts
-- **No STL containers** — all data structures implemented from scratch
+- **Real-time sync**: insert or delete a student and all 8 structures update instantly
+- **Undo system**: undo last insert or last delete using two independent stacks
+- **At-risk detection**: identifies students with attendance below 70% using a Min Heap
+- **Fast lookup**: O(1) average student search via Hash Table
+- **Balanced search**: AVL Tree provides O(log n) search and sorted traversal by score
+- **Graph analysis**: score-based similarity graph with Dijkstra, Prim's, and Kruskal's
+- **4 sorting algorithms**: Bubble, Selection, Insertion, and Merge Sort with comparison and swap counts
+- **No STL containers**: all data structures implemented from scratch
 
 ---
 
