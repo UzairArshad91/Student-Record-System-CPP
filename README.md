@@ -21,7 +21,7 @@ Built as a semester project for **CSC-232 Data Structures** at COMSATS Universit
 
 ## Data Structures Used
 
-=> Doubly Linked List = Main storage of all student records 
+=> Doubly Linked List = Main storage of all student records
 => Stack (x2) = Undo last insert / undo last delete 
 => AVL Tree = Balanced search and retrieval by overall score 
 => Min Heap = At-risk student detection by attendance percentage 
